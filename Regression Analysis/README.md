@@ -6,13 +6,13 @@ various	motor	 vehicles.	Alongside	mpg,	 the	 following	information	is
 recorded:	
 <br>
 <ol>
-	<li>1. cylinders:	categorical	</li>
-	<li>2. displacement:	numeric	</li>
-	<li>3. horsepower:	numeric	</li>
-	<li>4. weight:	numeric	</li>
-	<li>5. acceleration:	numeric</li>	
-	<li>6. model	year:	categorical	</li>
-	<li>7. origin:	categorical	</li>
-	<li>8. car	name:	string	(unique	for	each	instance)	</li>
+	<li>cylinders:	categorical	</li>
+	<li>displacement:	numeric	</li>
+	<li>horsepower:	numeric	</li>
+	<li>weight:	numeric	</li>
+	<li>acceleration:	numeric</li>	
+	<li>model	year:	categorical	</li>
+	<li>origin:	categorical	</li>
+	<li>car	name:	string	(unique	for	each	instance)	</li>
 </ol>
 
