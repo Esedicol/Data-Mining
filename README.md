@@ -1,7 +1,7 @@
-##Data-Mining
-Collection of labs and course work from Data Mining 1 & 2
+# Data-Mining
+A collection of all the labs from Data Mining 1 & 2
 
-####Data Mining 1 Folder
+### #Data Mining 1 
 Contains practical work for the following topics:
 
 - Classification
@@ -9,5 +9,5 @@ Contains practical work for the following topics:
 - Regression Analysis
 - Data Wrangling and Exploration
 
-####Data Mining 2 Folder
+### Data Mining 2
 Contains practical work for performing EDA on various datasets. Represented in Jupyter Lab.
