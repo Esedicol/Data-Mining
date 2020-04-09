@@ -109,4 +109,66 @@ def eda_categorical(df, feature, target, max_categories=20, labels=None, header=
     df_ft_countplot = pd.crosstab(df[feature], df[target])
     result = stats.chi2_contingency(df_ft_countplot)
     print('Chi-Square statistic %.4e (p=%.4e, dof=%d)' % result[0:3])
+    
+def  clean_data(df):	
+	# TYPES_OF_ADMISSION
+	feature = "TYPE_OF_ADMISSION"
+	before = df[feature].unique()
+	df[feature].fillna("9", inplace=True)
+	df.loc[df[feature].isin(["`"]), feature] = "9"
+	print(f'{feature}: -> {df[feature].unique()}')
+
+	# SOURCE_OF_ADMISSION
+	feature = "SOURCE_OF_ADMISSION"
+	before = df[feature].unique()
+	df[feature].fillna("9", inplace=True)
+	df.loc[df[feature].isin(["`", "3", "NaN", "7"]), feature] = "9"
+	print(f'{feature}: -> {df[feature].unique()}')
+
+	# PAT_STATE
+	feature = "PAT_STATE"
+	before = df[feature].unique()
+	df[feature].fillna("XX", inplace=True)
+	df.loc[df[feature].isin(["FC","`"]), feature] = "XX"
+	df.loc[df[feature].isin(["NM","AR","OK", "LA"]), feature] = "XX"
+	print(f'{feature}: -> {df[feature].unique()}')
+
+	# SEX_CODE
+	feature = "SEX_CODE"
+	before = df[feature].unique()
+	df[feature].fillna("U", inplace=True)
+	df.loc[df[feature].isin(["nan","`"]), feature] = "U"
+	print(f'{feature}: -> {df[feature].unique()}')
+
+	# RACE
+	feature = "RACE"
+	before = df[feature].unique()
+	df[feature].fillna("5", inplace=True)
+	df.loc[df[feature].isin(["nan", "`"]), feature] = "5"
+	print(f'{feature}: -> {df[feature].unique()}')
+
+	# ETHNICITY
+	feature = "ETHNICITY"
+	before = df[feature].unique()
+	df[feature].fillna("3", inplace=True)
+	df.loc[df[feature].isin(["nan", "`"]), feature] = "3"
+	print(f'{feature}: -> {df[feature].unique()}')
+
+	# PAT_AGE
+	feature = "PAT_AGE"
+	before = df[feature].unique()
+	df.loc[df[feature].isin(["00", "01", "02", "03", "22"]), feature] = "1"
+	df.loc[df[feature].isin(["04", "05", "06"]), feature] = "2"
+	df.loc[df[feature].isin(["07", "08", "09", "23"]), feature] = "3"
+	df.loc[df[feature].isin(["10", "11", "12", "13", "14", "15", "16", "24" ]), feature] = "4"
+	df.loc[df[feature].isin(["17", "18", "19", "20", "21", "25", "26"]), feature] = "5"
+	print(f'{feature}: -> {df[feature].unique()}')
+
+	# PAT_COUNTRY
+
+	feature = "PAT_COUNTRY"
+	before = df[feature].unique()
+	df[feature].fillna("NA", inplace=True)
+	df.loc[~df[feature].isin(["US", "NaN", "MX"]), feature] = "XX"
+	print(f'{feature}: -> {df[feature].unique()}')
 
