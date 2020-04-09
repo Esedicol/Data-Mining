@@ -1,0 +1,578 @@
+THCIC_ID	PROVIDER_NAME	FAC_TEACHING_IND	FAC_PSYCH_IND	FAC_REHAB_IND	FAC_ACUTE_CARE_IND	FAC_SNF_IND	FAC_LONG_TERM_AC_IND	FAC_OTHER_LTC_IND	FAC_PEDS_IND	
+000100	Austin State Hospital		X						
+000101	Big Spring State Hospital		X						
+000102	UT Medical Branch Hospital	A		X	X				X
+000104	Rio Grande State Center		X						
+000105	UT MD Anderson Cancer Center	A			X				
+000106	Kerrville State Hospital		X						
+000107	Rusk State Hospital		X						
+000108	Texas Center for Infectious Disease						X		
+000110	San Antonio State Hospital		X						
+000111	Terrell State Hospital		X						
+000112	UT Health Center-Tyler	X			X				
+000114	North Texas State Hospital		X						
+000115	Harris County Psychiatric Center		X						
+000117	Waco Center for Youth		X						
+000118	El Paso Psychiatric Center		X						
+001000	Baptist St Anthonys Health System-Baptist Campus			X	X				X
+002001	St Joseph Regional Health Center	X			X				
+006000	Matagorda Regional Medical Center				X				X
+006001	Matagorda Regional Medical Center		X	X		X			
+007000	Womans Hospital-Texas								
+008001	Baylor Medical Center at Uptown				X				
+013001	Grace Medical Center		X		X				X
+014000	Columbus Community Hospital			X	X	X			X
+019000	Valley Regional Medical Center			X	X	X			X
+020000	Good Shepherd Medical Center-Marshall				X				
+023000	Yoakum Community Hospital			X	X	X			
+026000	Childress Regional Medical Center				X				
+027000	Baylor Medical Center-Garland			X	X	X			
+028000	Kindred Hospital-Dallas						X		
+029000	Good Shepherd Medical Center				X				
+030000	Doctors Hospital-Tidwell			X	X				X
+031001	Allegiance Specialty Hospital-Kilgore		X		X				
+034000	Palo Pinto General Hospital				X				
+035000	St Davids Hospital				X				
+038001	CHRISTUS Jasper Memorial Hospital				X				
+040000	Providence Health Center				X				X
+041000	Madison St Joseph Health Center				X	X			
+042000	Baylor Medical Center at Carrollton				X				
+044000	Scott & White Hospital Taylor			X	X	X			
+047000	Huguley Memorial Medical Center		X		X				X
+049000	Coleman County Medical Center				X				
+056000	San Angelo Community Medical Center		X	X	X				X
+058000	Brownwood Regional Medical Center			X	X	X			X
+061000	Huntsville Memorial Hospital				X		X		
+062000	Winkler County Memorial Hospital				X				
+063000	Uvalde Memorial Hospital				X				
+064000	Citizens Medical Center				X				
+066000	Scott & White Hospital-Brenham			X	X	X			X
+071000	College Station Medical Center				X				
+072000	Memorial Medical Center-San Augustine				X				
+075000	Mitchell County Hospital			X	X	X			
+076000	Tomball Regional Medical Center		X	X	X	X			
+081001	Mission Trail Baptist Hospital				X				X
+085000	Hunt Regional Medical Center Greenville				X	X			X
+087000	Hunt Regional Community Hospital				X				
+089001	Liberty-Dayton Regional Medical Center				X				
+091001	Abilene Regional Medical Center				X	X			X
+095002	Paris Regional Medical Center South Campus	X	X	X	X	X		X	
+100076	Heritage Park Surgical Hospital				X				
+100082	Continuum Rehabilitation Hospital North Texas			X					
+100084	Sundance Hospital		X						
+100087	Montgomery County Mental Health Treatment Facility		X						
+100093	Baylor Institute for Rehab Frisco			X					
+106001	Red River Regional Hospital				X	X			
+106100	Audubon Behavioral Healthcare of Longview		X						
+107100	Audubon Behavioral Healthcare of Lufkin		X						
+108000	Cleveland Regional Medical Center				X				
+109000	Covenant Medical Center-Lakeside				X				
+112100	Healthsouth Rehabilitation Hospital of Cypress			X					
+114001	Baptist Medical Center				X				
+114100	Lone Star Behavioral Health Cypress		X						
+115100	Texas General Hospital				X				
+117000	Texas Childrens Hospital	A							C
+117002	Texas Childrens Hospital West Campus								X
+117100	Texas Childrens Hospital-Pavilion for Women								
+118000	St Lukes Episcopal Hospital	A		X	X				
+119000	Memorial Hermann Southeast Hospital			X	X				X
+121000	Baptist Orange Hospital				X				X
+124000	Methodist Hospital	A	X	X	X	X			
+124100	Warm Springs Specialty Hospital New Braunfels						X		
+126000	Angleton Danbury Medical Center				X				
+127000	Mid-Jefferson Extended Care Hospital						X		
+129000	Memorial Medical Center East Texas		X	X	X	X			X
+130000	Providence Memorial Hospital			X	X				C
+134001	Northeast Baptist Hospital				X				X
+136000	Schleicher County Medical Center				X				
+139000	Culberson Hospital				X				
+140002	Edinburg Regional Medical Center			X	X				X
+141000	Navarro Regional Hospital				X				
+142000	Methodist Charlton Medical Center	X			X				
+143000	Childrens Medical Center-Dallas	A	X	X	X				C
+143001	Childrens Medical Center Legacy	X	X	X					X
+144000	Wadley Regional Medical Center				X				X
+145000	University Medical Center	A		X	X	X			X
+146000	Covenant Hospital-Plainview		X		X				
+147000	Lillian M Hudspeth Memorial Hospital				X				
+154000	Methodist Hospital			X	X				C
+154001	Methodist Specialty & Transplant Hospital		X	X	X				
+154002	Northeast Methodist Hospital				X				
+154003	Methodist Texsan Hospital				X				
+155000	Guadalupe Regional Medical Center				X				
+158000	University Hospital	A	X	X	X				X
+164000	TIRR Memorial Hermann			X	X				
+168000	Shannon West Texas Memorial Hospital				X				
+172000	Memorial Hermann Northwest Hospital			X	X				X
+178000	Sweeny Community Hospital				X	X			
+180000	Las Palmas Medical Center				X				
+181000	Medical Center Hospital	X			X		X		
+182000	Texas Health Harris Methodist HEB		X	X	X				
+185000	East Texas Medical Center-Crockett				X				X
+195000	Collingsworth General Hospital				X	X			
+199000	Memorial Hospital				X				
+205000	Kimble Hospital				X				
+206003	Select Specialty Hospital-Houston Heights						X		
+206004	Select Specialty Hospital-Houston West						X		
+206005	Select Specialty Hospital-Houston Medical Center						X		
+207001	Laredo Medical Center				X				
+212000	Clear Lake Regional Medical Center				X				
+214000	Medical Center-Plano	X			X				
+216001	CHRISTUS Spohn Hospital-Kleberg				X				
+219000	Hill Country Memorial Hospital			X	X				X
+221000	Scenic Mountain Medical Center				X				
+228001	Southwest General Hospital				X				
+229000	Houston Northwest Medical Center				X				
+230000	Oakbend Medical Center		X	X	X	X			X
+230001	Oakbend Medical Center		X	X	X	X			X
+234000	Ballinger Memorial Hospital District				X				
+235000	Texas Health Harris Methodist Hospital-Fort Worth				X				
+239001	Care Regional Medical Center		X	X	X				
+246000	Columbia Medical Center-McKinney		X	X	X				
+247000	Shriners Hospital for Children-Galveston	X			X				C
+248000	East Texas Medical Center Henderson				X	X			X
+254000	Wise Regional Health System			X					
+254001	Wise Regional Health System		X	X	X				X
+255000	Methodist Dallas Medical Center	A			X	X			X
+256000	Texas Health Harris Methodist Hospital-Stephenville				X				X
+263000	University Medical Center of El Paso	X			X				X
+266000	Sierra Medical Center				X				
+282000	East Texas Medical Center-Mount Vernon				X				X
+283000	Metropolitan Methodist Hospital				X				
+285000	Baylor Medical Center-Waxahachie				X	X			
+286000	Mother Frances Hospital				X				
+287000	East Texas Medical Center-Trinity				X				
+292000	East Texas Medical Center-Clarksville				X				
+297000	Texas Health Presbyterian Hospital - WNJ	X	X		X				X
+299001	CHRISTUS Hospital-St Mary				X				
+300000	Baylor Medical Center-Irving				X				
+301000	Doctors Hospital-Laredo		X	X	X				
+302000	Memorial Hermann Memorial City Medical Center			X	X				X
+303000	Texas Health Presbyterian Hospital-Kaufman				X				X
+307000	Covenant Hospital-Levelland				X				
+314001	Valley Baptist Medical Center-Brownsville				X				
+315003	Dallas Regional Medical Center				X				
+318000	Northwest Texas Hospital	X	X	X	X				X
+319000	Del Sol Medical Center				X				
+323000	Texas Health Harris Methodist Hospital Cleburne			X	X				X
+331000	Baylor University Medical Center	A	X		X	X			X
+332000	Cook Childrens Medical Center								C
+334002	South Texas Regional Medical Center				X	X			
+335000	University Medical Center-Brackenridge	X			X				
+336001	Denton Regional Medical Center				X				
+337001	West Houston Medical Center				X				
+339001	CHRISTUS Santa Rosa Medical Center			X	X				
+339002	CHRISTUS Santa Rosa Hospital-Westover Hills			X	X				
+339003	CHRISTUS Santa Rose-Alamo Heights			X	X				
+340000	Medical City Dallas Hospital				X				C
+347000	Memorial Hermann Hospital	A		X	X				C
+349001	Bayshore Medical Center		X	X	X		X		X
+363000	Baylor All Saints Medical Center-Fort Worth		X	X	X				
+369000	Little River Healthcare				X	X			
+370000	Mission Regional Medical Center			X	X				
+374000	East Texas Medical Center-Athens				X				
+383000	Hill Regional Hospital			X	X				
+384000	Lyndon B Johnson General Hospital	A			X				
+389000	Baptist Hospitals of Southeast Texas			X	X				
+390000	Park Plaza Hospital				X				
+392000	Nacogdoches Medical Center				X				
+393000	Starr County Memorial Hospital				X				
+394000	Medical Center-Lewisville				X				X
+396002	Nix Health Care System				X				
+397000	Rollins Brooks Community Hospital				X	X			
+397001	Metroplex Hospital				X				
+398000	CHRISTUS Spohn Hospital Corpus Christi	X	X		X				
+398001	CHRISTUS Spohn Hospital Corpus Christi-Shoreline			X	X				
+398002	CHRISTUS Spohn Hospital Corpus Christi-South				X				X
+400000	Valley Baptist Medical Center	X		X	X				X
+401000	East Texas Medical Center-Fairfield				X				
+405000	San Jacinto Methodist Hospital				X				
+406000	Peterson Regional Medical Center				X				
+407000	Memorial Hermann Southwest Hospital		X	X	X				X
+409000	John Peter Smith Hospital	X	X		X	X			X
+410000	East Texas Medical Center				X				
+411000	East Texas Medical Center-Quitman				X				
+416000	East Texas Medical Center-Jacksonville				X				
+417000	United Regional Health Care System	X			X				X
+422000	Texas Health Arlington Memorial Hospital			X	X				
+424000	Lake Granbury Medical Center				X				
+424500	Seton Smithville Regional Hospital				X				
+425000	Odessa Regional Medical Center				X				
+426000	El Campo Memorial Hospital				X	X			
+429001	CHRISTUS Spohn Hospital-Beeville				X			X	
+431000	Texas Health Presbyterian Hospital Dallas	X		X	X				X
+433000	Connally Memorial Medical Center				X				
+436000	Brazosport Regional Health System			X	X				
+437000	North Hills Hospital				X				
+438000	East Texas Medical Center-Pittsburg				X				
+444001	CHRISTUS St Elizabeth Hospital				X				
+446001	Mother Frances Hospital Winnsboro				X				
+448001	UT Southwestern University Hospital-St Paul	A			X				
+449000	Dallas Medical Center			X	X				
+452000	Midland Memorial Hospital				X				
+453000	DeTar Hospital-Navarro			X	X	X			
+458001	East Houston Regional Medical Center		X	X	X				X
+459000	Ben Taub General Hospital	A	X		X				
+459001	Quentin Mease Community Hospital	A		X		X			
+460000	Riverside General Hospital		X		X				
+462000	Val Verde Regional Medical Center			X	X				
+464002	Medical Center-Southeast Texas		X	X	X				X
+465000	Covenant Medical Center			X	X				
+466000	Memorial Medical Center-Livingston				X				
+469000	Texas Health Harris Methodist Hospital Azle			X	X				
+474000	Parkland Memorial Hospital	A			X				
+476000	Scott & White Hospital Llano			X	X				
+477000	Plaza Medical Center-Fort Worth	X		X	X				
+478000	Nacogdoches Memorial Hospital			X	X				
+480000	Knapp Medical Center				X				X
+481000	Woodland Heights Medical Center				X				
+484000	East Texas Medical Center-Carthage				X				
+488000	Driscoll Childrens Hospital				X				C
+490000	Electra Memorial Hospital				X				
+495001	Comanche County Medical Center				X	X			
+497000	Seton Medical Center				X				
+500000	Hendrick Medical Center			X	X	X			X
+502000	Medical Center-Arlington				X				
+503001	St Lukes Baptist Hospital		X		X	X			
+505000	Parkview Regional Hospital				X				
+506000	Hillcrest Baptist Medical Center			X	X	X			X
+508001	Conroe Regional Medical Center	X			X				X
+511000	Doctors Hospital-White Rock Lake				X				
+513000	Baylor Regional Medical Center-Grapevine				X				
+522000	Sabine County Hospital				X	X			
+525000	Longview Regional Medical Center				X	X			
+526000	Shriners Hospitals for Children				X				C
+534001	Memorial Hermann Katy Hospital			X	X				X
+537000	Scott & White Memorial Hospital	A			X				X
+537003	Scott & White Memorial Hospital-SNF					X			
+537005	Scott & White Memorial Hospital-Psych		X						
+537006	McLane Childrens Hospital Scott & White	X			X				C
+547001	Fort Duncan Regional Medical Center			X	X				
+549000	Methodist Richardson Medical Center				X				
+556000	Central Texas Medical Center				X				
+559000	Seton Highland Lakes Hospital				X				
+560000	Rice Medical Center				X				
+574001	Palacios Community Medical Center				X	X			
+586000	Baylor Specialty Hospital						X		
+597000	Seton Edgar B Davis Hospital				X				
+600001	CHRISTUS St John Hospital			X	X				
+601000	Rio Grande Regional Hospital				X				
+602000	St Davids South Austin Hospital				X	X			
+606000	Cypress Fairbanks Medical Center			X	X				X
+608000	Round Rock Medical Center				X	X			
+609001	Memorial Hermann Sugar Land			X	X				X
+615000	Memorial Hermann The Woodlands Hospital			X	X				X
+616000	HEALTHSOUTH Rehab Hospital Humble			X					
+622001	Texas NeuroRehab Center			X					
+625000	Lake Pointe Medical Center				X				
+627000	Texas Health Harris Methodist Hospital-Southwest Fort W			X	X				
+629001	Palestine Regional Medical Center		X		X				X
+634000	Childrens Hospital of San Antonio			X	X				C
+636000	HEALTHSOUTH Rehab Institute-San Antonio			X					
+642000	Baylor Institute for Rehab			X					
+645000	Kindred Hospital-San Antonio						X		
+647000	Baptist Emergency Hospital Thousand Oaks				X				
+649000	St Davids Rehab Center			X					
+652000	Texas Health Specialty Hospital-Fort Worth						X		
+653001	UT Southwestern University Hospital-Zale Lipshy	A	X	X	X				
+654000	Golden Plains Community Hospital				X				
+657000	Kindred Hospital-Mansfield						X		
+659000	HEALTHSOUTH Rehab Hospital			X					
+660000	HEALTHSOUTH Rehab Hospital-Arlington			X					
+661001	Texas Specialty Hospital-Dallas						X		
+662000	HEALTHSOUTH City View Rehab Hospital			X					
+663000	HEALTHSOUTH Rehab Hospital-Austin			X					
+664000	Texas Health Presbyterian Hospital-Plano			X	X				X
+670000	HEALTHSOUTH Plano Rehab Hospital			X					
+670001	Mesquite Rehab Hospital			X					
+671000	HEALTHSOUTH Rehab Hospital-Beaumont			X					
+672000	Select Specialty Hospital-Dallas						X		
+674000	TOPS Surgical Specialty Hospital				X				
+675000	Kingwood Medical Center			X	X	X			X
+676000	Kindred Hospital-Houston Medical Center						X		
+677001	North Central Baptist Hospital				X				
+678000	Kindred Hospital Midtown				X		X		
+679000	Burleson St Joseph Health Center-Caldwell				X	X			
+680000	Kindred Rehab Hospital Clear Lake			X					
+680001	Reliant Rehab Hospital Dallas			X	X				
+681001	Methodist Ambulatory Surgery Hospital-Northwest				X				
+681400	Kell West Regional Hospital				X				
+684000	HEALTHSOUTH Rehab Hospital-Texarkana			X					
+685000	HEALTHSOUTH Rehab Hospital-Wichita Falls			X					
+686000	Covenant Childrens Hospital				X				C
+688000	Hendrick Center- Extended Care						X		
+689401	CHRISTUS Spohn Hospital Alice		X	X	X				X
+690000	Kindred Hospital-Tarrant County						X		
+690600	LifeCare Hospital-Fort Worth			X	X		X		
+691000	Memorial Specialty Hospital							X	
+692000	Trinity Mother Frances Rehab Hospital			X					
+693000	HEALTHSOUTH Rehab Hospital-Midland/Odessa			X					
+694100	Surgery Specialty Hospitals of America-Southeast Housto				X				
+695000	HEALTHSOUTH Rehab Hospital The Woodlands			X					
+698004	Cornerstone Hospital Houston-Clear Lake						X		
+698005	Cornerstone Hospital Houston-Bellaire						X		
+700000	Cornerstone Hospital-Austin				X		X		
+700003	Reliant Rehab Hospital Mid-Cities			X	X				
+701000	Mesa Hills Specialty Hospital				X		X		
+702001	Acuity Hospital South Texas						X		
+703000	Corpus Christi Medical Center-Bay Area				X				
+703002	Corpus Christi Medical Center-Doctors Regional				X				
+703003	Corpus Christi Medical Center-Heart Hospital				X				
+703005	Bayview Behavioral Hospital		X						
+704004	Corpus Christi Medical Center-Northwest		X						
+706000	Kindred Hospital Houston NW						X		
+708000	CHRISTUS Dubuis Hospital-Beaumont						X		
+708001	CHRISTUS Dubuis Hospital-Port Arthur						X		
+709001	Red River Hospital		X						
+710000	Our Childrens House Baylor								C
+711900	Big Bend Regional Medical Center				X				
+712500	HealthBridge Childrens Hospital-Houston								X
+713001	CHRISTUS St Michael Rehab Hospital			X					
+713400	Kindred Hospital North Houston						X		
+714000	Northwest Texas Surgery Center				X				X
+714500	Ennis Regional Medical Center				X				
+715001	Texas Specialty Hospital-Houston						X		
+715901	CHRISTUS St Catherine Hospital				X				X
+717000	LifeCare Hospital-Dallas			X			X		
+717500	Physicians Centre Hospital				X				X
+718000	Devereux Texas Treatment Network		X						
+718002	Highlands Regional Rehab Hospital			X					
+719300	Select Specialty Hospital-San Antonio				X		X		
+719400	Kindred Hospital-White Rock						X		
+720000	Texas Health Seay Behavioral Health Center		X						
+720400	Kindred Hospital East Houston				X		X		
+720401	Kindred Hospital Baytown						X		
+720402	Kindred Hospital Clear Lake						X		
+723001	Laurel Ridge Treatment Center		X						
+724200	Texas Health Presbyterian Hospital Allen			X	X				
+724700	Methodist Willowbrook Hospital			X	X				
+724900	Brownsville Doctors Hospital				X				X
+725400	Mother Frances Hospital-Jacksonville				X				
+727100	Kindred Hospital El Paso						X		
+728200	El Paso Specialty Hospital				X	X			
+728800	Grimes St Joseph Health Center				X	X			
+730001	Texas Health Heart & Vascular Hospital				X				
+736000	DePaul Center		X						
+737000	Clarity Child Guidance Center		X						
+739001	Texas NeuroRehab Center		X						
+740000	St Lukes Hospital at the Vintage				X				
+744001	Cypress Creek Hospital		X		X				
+747000	River Crest Hospital		X	X					
+750000	Methodist Hospital for Surgery			X	X				
+752000	Timberlawn Mental Health System		X						
+754000	Glen Oaks Hospital		X						
+755001	West Oaks Hospital		X	X					
+758000	Houston Hospital for Specialized Surgery				X				
+763000	Plaza Specialty Hospital						X		
+765001	Millwood Hospital		X						
+766000	Green Oaks Hospital		X						
+770000	Seton Shoal Creek Hospital		X						
+777000	East Texas Medical Center Specialty Hospital				X		X		
+778000	Texas Health Springwood Hospital		X						
+782001	Intracare North Hospital		X						
+784400	Baylor Heart & Vascular Center				X				
+785900	Select Specialty Hospital-South Dallas						X		
+786001	Llano Specialty Hospital						X		
+786200	New Braunfels Regional Rehab Hospital			X					
+786800	South Texas Spine & Surgical Hospital				X				
+787400	Baylor Medical Center-Frisco				X				X
+787500	Dubuis Hospital-Paris						X		
+788001	CHRISTUS St Michael Health System				X				
+788002	Harlingen Medical Center				X				X
+788003	Christus St Michael Hospital Atlanta				X				
+789800	LifeCare Hospital-Plano						X		
+789900	Select Specialty Hospital-Midland						X		
+790200	Texas Spine & Joint Hospital				X				
+790500	Sugar Land Surgical Hospital				X				
+792000	Texas Orthopedic Hospital			X	X				
+792600	Kindred Hospital Spring						X		
+792601	Kindred Hospital Tomball						X		
+792700	Kindred Hospital Sugar Land						X		
+792702	Kindred Hospital Town & Country						X		
+793000	Mainland Medical Center		X	X	X				
+793100	St Lukes The Woodlands Hospital	X		X	X				
+794000	Northwest Hills Surgical Hospital				X				X
+794200	Menninger Clinic		X						
+794600	Select Specialty Hospital-Longview						X		
+795000	Nexus Specialty Hospital Shenandoah Campus						X		
+795001	Nexus Specialty Hospital						X		
+796000	Plum Creek Specialty Hospital						X		
+797001	Dubuis Hospital-Corpus Christi						X		
+797100	Doctors Hospital-Renaissance		X	X	X				X
+797500	Seton Southwest Hospital				X				
+797600	Seton Northwest Hospital				X				
+798500	Austin Surgical Hospital								X
+799000	East Texas Medical Center Rehab Hospital			X					
+799001	USMD Hospital-Arlington				X				
+799500	Irving Coppell Surgical Hospital								
+800000	Kindred Hospital Tarrant County Fort Worth SW						X		
+800010	Methodist West Houston Hospital			X	X				
+800700	Kindred Hospital-Fort Worth						X		
+801000	Kindred Hospital Bay Area						X		
+801300	East El Paso Physicians Medical Center				X				
+801500	Lubbock Heart Hospital				X				
+802001	McAllen Medical Center				X				X
+804000	Sunrise Canyon		X						
+804100	Kindred Hospital-Corpus Christi						X		
+804500	Baylor Surgical Hospital-Fort Worth				X				
+805000	Plano Specialty Hospital						X		
+805100	Baylor Medical Center Trophy Club								
+806002	Cedar Crest Hospital		X		X				
+806300	Centennial Medical Center				X				
+806500	Tyler Continue Care Hospital						X		
+806800	East Texas Medical Center-Gilmer				X				
+808500	Weslaco Rehab Hospital			X					
+812000	Kindred Hospital Victoria						X		
+812800	Texas Health Harris Methodist Hospital Southlake				X				
+813100	Texas Institute for Surgery-Texas Health Presbyterian-D				X				
+813800	Memorial Hermann Specialty Hospital Kingwood				X				
+814000	Las Colinas Medical Center				X				
+814001	Baylor Regional Medical Center-Plano				X				
+815000	LifeCare Hospital-San Antonio							X	
+815300	Texas Health Center-Diagnostics & Surgery Plano				X				
+816001	Allegiance Behavioral Health Center-Plainview		X						
+816300	Solara Hospital						X		
+816301	Solara Hospital						X		
+818000	Kindred Hospital Amarillo				X		X		
+818200	Pine Creek Medical Center				X				
+818600	Kingwood Pines Hospital		X						
+820002	Texas Specialty Hospital-Wichita Falls						X		
+820600	Innova Hospital-San Antonio				X				
+820800	Texas Health Presbyterian Hospital-Denton			X	X				X
+821001	LifeCare Hospital-South Texas-South						X		
+821002	LifeCare Hospitals-South Texas - North						X		
+821100	South Texas Rehab Hospital			X					
+822000	Dubuis Hospital-Texarkana				X		X		
+822001	Houston Physicians Hospital			X	X				
+822100	Good Shepherd Medical Center-Linden				X	X			
+822800	Westlake Medical Center				X				
+823000	Methodist Sugar Land Hospital			X	X				
+823400	St Marks Medical Center				X				
+826500	Beaumont Bone & Joint Institute				X				
+826800	University Behavioral Health-Denton		X						
+829000	Heart Hospital-Austin				X				
+829900	North Austin Medical Center				X				
+830000	Cornerstone Regional Hospital				X				
+831700	Mayhill Hospital		X		X				
+831800	Kindred Rehabilitation Hospital Arlington			X					
+831900	Houston Orthopedic & Spine Hospital				X				
+832900	Pampa Regional Medical Center				X				
+833000	Gulf Coast Medical Center		X		X				
+835700	St Davids Georgetown Hospital				X				
+836300	Laredo Specialty Hospital						X		
+837800	Hickory Trail Hospital		X						
+838400	Memorial Hermann Rehab Hospital Katy			X	X				
+838600	St Joseph Medical Center		X	X	X	X			
+839100	Vibra Specialty Hospital						X		
+839200	Regency Hospital - Fort Worth						X		
+840000	Mesquite Specialty Hospital						X		
+840100	First Street Hospital				X				
+840200	University General Hospital				X				
+840400	Doctors Diagnostic Hospital				X				
+840700	Solara Hospital Harlingen						X		
+841300	El Paso LTAC Hospital						X		
+841400	Kindred Rehabilitation Hospital Amarillo			X					
+842800	Methodist Mansfield Medical Center				X	X			
+843200	North Cypress Medical Center				X				
+844000	Heart Hospital Baylor Plano				X				
+844200	Integrity Transitional Hospital						X		
+844600	Warm Springs Rehab Hospital-San Antonio			X		X			
+844601	Warm Springs Rehab Hospital Thousand Oaks			X					
+844602	Warm Springs Rehab Hospital Westover Hills			X					
+844800	Weatherford Regional Medical Center				X				
+846000	Acadia Abilene		X						
+846100	St Lukes Patients Medical Center				X				
+846200	Covenant Specialty Hospital						X		
+847000	Texoma Medical Center		X	X	X				
+847100	Memorial Hermann Northeast			X	X				X
+847200	Atrium Medical Center-Corinth						X		
+847500	Solara Hospital-Brownsville Campus						X		
+847600	Dubuis Hospital-Texarkana-Wadley						X		
+848100	Warm Springs Specialty Hospital-Victoria			X			X		
+848200	Warm Springs Specialty Hospital-Luling			X			X		
+850200	Cook Childrens Northeast Hospital				X				X
+850300	Scott & White Continuing Care						X		
+851400	Harbor Hospital-Southeast Texas						X		
+852000	Dell Childrens Medical Center								C
+852100	Foundation Bariatric Hospital-San Antonio				X				
+852600	Scott & White Hospital Round Rock				X				
+852900	Physicians Surgical Hospital-Quail Creek				X				
+852901	Physicians Surgical Hospital-Panhandle Campus				X				
+854000	Twin Creeks Hospital			X					
+854100	Solara Hospital Conroe						X		
+854400	Central Texas Rehab Hospital			X					
+855200	Austin Lakes Hospital		X						
+858200	Ethicus Hospital DFW						X		
+858300	Cedar Park Regional Medical Center				X				
+858600	University Behavioral Health-El Paso		X						
+859900	Texas Health Presbyterian Hospital-Rockwall				X				
+860600	North Central Surgical Center				X				
+861300	Reliant Rehab Hospital North Texas			X	X				
+861400	USMD Hospital Fort Worth				X				
+861700	Seton Medical Center Williamson				X				
+861900	Kate Dishman Rehab Hospital			X					
+862000	Methodist Rehab Hospital			X					
+863300	CHRISTUS Santa Rosa Hospital New Braunfels			X	X				
+864600	Carrus Specialty Hospital						X		
+864800	CHRISTUS Dubuis Hospital-Bryan						X		
+865000	Sierra Providence East Medical Center				X				
+865800	TrustPoint Hospital		X	X	X				
+865900	Icon Hospital						X		
+866100	Reliant Rehab Hospital Central Texas			X	X	X			
+869700	St Lukes Sugar Land Hospital	X		X	X				
+871500	Select Rehab Hospital-Denton			X					
+872100	Baylor Institute for Rehab Northwest Dallas			X					
+873200	Baylor Emergency Medical Center at Aubrey				X				
+873700	Reliant Rehab Hospital North Houston			X	X				
+873800	Baylor Institute for Rehab-Fort Worth			X					
+874000	Atrium Medical Center						X		
+874100	Methodist Stone Oak Hospital				X				
+900000	Forest Park Medical Center				X				
+901100	Humble Surgical Hospital				X				
+902200	Texas Rehabilitation Hospital-Fort Worth			X					
+907000	Renaissance Hospital-Groves				X				
+908000	South Hampton Community Hospital				X				
+914000	Kindred Hospital Dallas Central						X		
+915000	Aspire Behavioral Health-Conroe		X						
+916000	Emerus Hospital				X				
+919000	Texas Regional Medical Center Sunnyvale				X				
+920000	Reliant Rehab Hospital Abilene			X	X				
+921000	Seton Medical Center Hays				X				
+923000	St Lukes Lakeside Hospital			X	X				
+931000	South Texas Surgical Hospital				X				
+936000	Baylor Orthopedic and Spine Hospital - Arlington				X				
+937000	Methodist McKinney Hospital			X	X				
+938000	Basin Healthcare Center				X				
+939000	GlobalRehab Hospital-San Antonio			X					
+940000	Texas Specialty Hospital Lubbock						X		
+941000	Kindred Hospital The Heights						X		
+943000	Texas Health Presbyterian Hospital Flower Mound				X				X
+944000	Behavioral Hospital Longview		X						
+945500	Victory Medical Center Houston				X				
+956000	Westbury Community Hospital		X						
+957000	Carrus Rehab Hospital			X					
+969000	HEALTHSOUTH Sugar Land Rehab Hospital			X					
+969200	Behavioral Hospital-Bellaire		X						
+969500	Carrollton Springs		X						
+969600	Kindred Rehab Hospital Northeast Houston			X					
+969700	El Paso Childrens Hospital	X		X	X				C
+970160	Red Oak Hospital				X				
+970200	Lakeway Regional Medical Center			X	X				
+970600	Reliant Rehab Hospital Northwest Houston			X	X				
+970700	Esplanade Rehab Hospital			X					
+970800	Reliant Austin			X	X				
+971000	Seton Medical Center Harker Heights				X				
+971200	Accel Rehab Hospital of Plano			X					
+971700	Cambridge Hospital		X						
+971800	Forest Park Medical Center Frisco				X				
+971900	Baylor Medical Center McKinney								
+972200	Cornerstone Hospital of South Houston						X		
+972700	Pristine Hospital of Pasadena				X				
+972810	Baptist Emergency Hospital Overlook				X				
+972900	Texas Health Harris Methodist Hospital Alliance				X				
+972910	Victory Medical Center Plano				X				
+972960	Warm Springs Specialty Hospital San Antonio						X		
+972970	Victory Surgical Hospital East Houston				X				
+972990	Victory Medical Center Mid-Cities				X				
+973000	Baptist Emergency Hospital Westover Hills				X				
+973100	St Joseph Medical Center-Heights				X				
