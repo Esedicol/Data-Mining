@@ -102,6 +102,9 @@ def eda_categorical(df, feature, target, max_categories=20, labels=None, header=
     plt.show()
     
     # 3. Goodness of fit
+    display(pd.crosstab(df[feature], df[target]))
+    
+    # 4. Goodness of fit
     display(Markdown("**Chi-Sq Goodness of Fit**"))
     df_ft_countplot = pd.crosstab(df[feature], df[target])
     result = stats.chi2_contingency(df_ft_countplot)
