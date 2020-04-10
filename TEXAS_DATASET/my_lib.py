@@ -5,6 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 import scipy.stats as stats  
+from zipfile import ZipFile
 
 import seaborn as sns
 sns.set_style("darkgrid")
@@ -172,3 +173,14 @@ def  clean_data(df):
 	df.loc[~df[feature].isin(["US", "NaN", "MX"]), feature] = "XX"
 	print(f'{feature}: -> {df[feature].unique()}')
 
+
+def make_assignment(files=[], archive="my_assignment.zip"):
+    default_files = ["01-Import.ipynb", "02-EDA.ipynb", "03-Model.ipynb", "my_lib.py", "df_grading_pred.csv"]
+    print(f"Creating archive: {archive}")
+    with ZipFile(archive,"w") as zip:
+        for f in files+default_files:
+            if os.path.isfile(f):
+                print(f"\t{f} - OK")
+                zip.write(f)
+            else:
+                print(f"\t{f} - Skipped")
