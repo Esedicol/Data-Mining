@@ -194,6 +194,20 @@ def  clean_data(df):
     df.loc[df[feature].isin(["0", "`"]), feature] = "4"
     print(f'{feature}: -> {df[feature].unique()}')
 
+# Dropping irrelevant columns to reduce size of dataset
+def drop_irrelevant_columns(df_in):
+    null_list = []
+    for i in df_in.columns:
+        if df_in[i].isnull().sum() >= 50000 and i != "SEX_CODE":
+            null_list.append(i)
+    print(f"Old Dataframe: {df_in.shape}")
+    
+    # Dropping irrelevant columns 
+    print(f'\nDropping {len(null_list)} columns ....')
+    new_df = df_in.drop(columns=null_list)   
+    print(f"New Dataframe: {new_df.shape}")
+    
+    return new_df
 
 def make_assignment(files=[], archive="my_assignment.zip"):
     default_files = ["01-Import.ipynb", "02-EDA.ipynb", "03-Model.ipynb", "my_lib.py", "df_grading_pred.csv"]
